@@ -989,9 +989,6 @@ footer .footer-r .txt-box4{
     .sec-4 .sec-4-main .sec-4-txtbox .sec-4-txt{
         font-size: 1.0rem;
     }
-    .sec-4 .sec-4-main .sec-4-txtbox p, .sec-4 .sec-4-main .sec-4-txtbox h3{
-        font-size: 0.4rem;
-    }
     .sec-4 .sec-4-main .sec-4-box1 .heart-icon, .sec-4 .sec-4-main .sec-4-box2 .heart-icon, .sec-4 .sec-4-main .sec-4-box3 .heart-icon{
         display: none;
     }
